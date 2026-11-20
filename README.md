@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/pcb-top-view.gif" alt="Вид на печатную плату сверху. Импульсы идут к микросхеме и расходятся по дорожкам" width="100%">
+  <img src="assets/pcb-top-view.svg" alt="Вид на печатную плату сверху. Импульсы идут к микросхеме и расходятся по дорожкам" width="100%">
   <h1>Ilya Lampadov</h1>
   <p><strong>Инженер встраиваемой техники · Embedded Systems Engineer</strong></p>
   <p>Аппаратная часть · Встраиваемое ПО · Законченные изделия</p>
