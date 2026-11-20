@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-cover.png">
-    <img src="assets/profile-cover-animated.gif" alt="" width="100%">
+    <img src="assets/pcb-startup.gif" alt="Печатная плата: сигналы сходятся к микросхеме, а затем расходятся по дорожкам" width="100%">
   </picture>
   <h1>Ilya Lampadov</h1>
   <p><strong>Инженер встраиваемой техники · Embedded Systems Engineer</strong></p>
