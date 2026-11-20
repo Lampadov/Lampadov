@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-cover.png">
-    <img src="assets/pcb-startup.gif" alt="Печатная плата: сигналы сходятся к микросхеме, а затем расходятся по дорожкам" width="100%">
-  </picture>
+  <img src="assets/pcb-top-view.gif" alt="Вид на печатную плату сверху. Импульсы идут к микросхеме и расходятся по дорожкам" width="100%">
   <h1>Ilya Lampadov</h1>
   <p><strong>Инженер встраиваемой техники · Embedded Systems Engineer</strong></p>
   <p>Аппаратная часть · Встраиваемое ПО · Законченные изделия</p>
