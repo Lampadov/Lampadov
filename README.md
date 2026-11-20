@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/profile-cover.png" alt="" width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-cover.png">
+    <img src="assets/profile-cover.gif" alt="" width="100%">
+  </picture>
   <h1>Ilya Lampadov</h1>
   <p><strong>Инженер встраиваемой техники · Embedded Systems Engineer</strong></p>
   <p>Аппаратная часть · Встраиваемое ПО · Законченные изделия</p>
