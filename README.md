@@ -31,3 +31,5 @@
 | ОСРВ | Задачи FreeRTOS на двух МК и системный тик RTX5 от TIMER1. [FreeRTOS и RTX5](https://github.com/Lampadov/milandr-rtos-examples) |
 | Аудио | Воспроизведение отсчётов WAV через два ЦАП и усилитель TPA6130A2. [WAV на К1986ВК01GI](https://github.com/Lampadov/k1986vk01gi-wav-dac) |
 | Захват и ШИМ | Захват фронтов на CAP0 и отдельный выход ШИМ с CAP3. [Захват и ШИМ на К1986ВК01GI](https://github.com/Lampadov/k1986vk01gi-capture-pwm) |
+| SPI и IrDA | Эхо по SPI и управление светодиодами двух плат через ИК-порт. [Примеры SPI и IrDA](https://github.com/Lampadov/milandr-peripheral-lab) |
+| Детектор питания | Проверка порогов PVD и обработка прерывания на К1986ВЕ8Т. [Пример PVD](https://github.com/Lampadov/k1986ve8t-power-pvd) |
